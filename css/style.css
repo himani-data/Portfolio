@@ -8844,15 +8844,12 @@ h1, h2, h3, h4, h5,
         width: 130px; }
 
 .ftco-about .counter-wrap {
-  display: flex !important;              /* Make .counter-wrap a flex container */
-  /* justify-content: center !important;    Center its children horizontally */
-   /* text-align: center;                      */
-} 
-
-.ftco-about .counter-wrap .text p {
+  display: flex !important;             
+  justify-content: center !important;       
+  text-align: center;                   
   font-size: 20px;
    /* Center its children horizontally */
-  text-align: center;  }
+   }
   .ftco-about .counter-wrap .text p span {
     font-weight: 400;
     color: #fff; }
