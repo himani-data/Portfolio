@@ -9839,13 +9839,13 @@ title-s    -webkit-box-shadow: 0 0 0 0 rgba(255, 189, 57, 0);
 
 
 
-/* .about-info {
+.about-info {
   display: flex;
   flex-wrap: nowrap;
   justify-content: flex-start;
   align-items: baseline;
   gap: 10px; /* space between title and value */
- 
+}
 
 .title-s {
   font-weight: bold;
