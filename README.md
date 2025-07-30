@@ -9,13 +9,13 @@ Welcome to my personal web portfolio — a creative space where I blend my **tec
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
-- 🖼️ Smooth, scrollable sections (Hero, Projects, About Me, Contact)
-- 🎯 Task Progress Tracker (To-Do App included!)
-- 🌈 Canva-inspired gradient theme
-- 📱 Fully responsive design (mobile-friendly)
-- 🧘‍♀️ Reflects personal and spiritual essence
+- 🎯 Responsive Design for mobile and desktop
+- 📍 Scroll-based animations
+- 📊 Progress bars
+- 🔗 Smooth navigation
+- 🖼️ Aesthetic sections including About, Projects, Contact
 
 ---
 
