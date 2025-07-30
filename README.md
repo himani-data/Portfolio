@@ -69,12 +69,12 @@ Hi! I’m **Himani Verma**, a Computer Science student with a heart for **learni
 
 
 ---
-### 🎨 Credits
-
-This site was built upon a publicly available template, modified and customized by me to suit my personal portfolio.
 
 
----
+>This site was built upon a publicly available template, modified and customized by me to suit my personal portfolio.
+
+
+
 
 > “Exploring life between code, calmness, and the cosmic rhythm of devotion.” 🌼
 
