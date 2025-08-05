@@ -1,0 +1,16 @@
+{
+					    number: num,
+					    numberStep: comma_separator_number_step
+					  }, 7000
+					);
+=======
+					$this.animateNumber(
+					  {
+					    number: num,
+					    numberStep: comma_separator_number_step
+					  }, 7000,
+					  function() {
+						// Append plus sign after animation completes
+						$this.text($this.text() + '+');
+					  }
+					);
